@@ -7,7 +7,9 @@ public class NewBehaviourScript : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int A = 2;    
+        int A = 2;
+        A = 3;
+       
     }
 
     // Update is called once per frame
